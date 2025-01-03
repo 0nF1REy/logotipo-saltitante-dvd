@@ -1,2 +1,7 @@
-# logotipo-saltitante-dvd
-"Logotipo Saltitante DVD", um projeto interativo que simula o movimento dinâmico e aleatório de um logotipo na tela, inspirado no clássico efeito das telas de descanso de DVD. A aplicação utiliza técnicas de HTML, CSS e JavaScript para criar animações fluidas, com alterações de cor ao colidir nas bordas da janela, além de ser responsiva e adaptável
+# Logotipo saltitante DVD
+
+<ul>
+  <li><h3><i>Página principal do projeto:</i></h3></li>
+</ul>
+
+<img src="https://github.com/user-attachments/assets/19fbdb2c-1d69-46b2-b219-b9bf8ec6ce1a" alt="Página principal do projeto: logotipo-saltitante-dvd" width="97%" align="right"/>
